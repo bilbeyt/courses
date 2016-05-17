@@ -1,0 +1,14 @@
+﻿A;Ali;Aksu;N;2;deposit;withdraw
+P
+A;Mithat;Köse;P;3;deposit;credit;withdraw
+P
+V
+P
+A;Charlie;Chaplin;P;2;withdraw;credit
+P
+V
+P
+R;Ali;Aksu;N
+P
+s;Ali;Aksu
+E

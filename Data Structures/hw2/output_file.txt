@@ -1,0 +1,34 @@
+New customer is added
+
+Ali Aksu N deposit withdraw
+
+New customer is added
+
+Mithat Köse P deposit credit withdraw
+Ali Aksu N deposit withdraw
+
+Next transaction is processed
+
+Mithat Köse P credit withdraw
+Ali Aksu N deposit withdraw
+
+New customer is added
+
+Mithat Köse P credit withdraw
+Charlie Chaplin P withdraw credit
+Ali Aksu N deposit withdraw
+
+Next transaction is processed
+
+Charlie Chaplin P withdraw credit
+Mithat Köse P withdraw
+Ali Aksu N deposit withdraw
+
+Ali Aksu is removed
+
+Charlie Chaplin P withdraw credit
+Mithat Köse P withdraw
+
+Ali Aksu could not be found
+
+Program exits

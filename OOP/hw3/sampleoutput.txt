@@ -1,0 +1,44 @@
+Toy Label: Lego: Heroes Batman # 0.2x0.3 1.2kg No Battery
+
+### ERROR ### Index out of bounds!
+
+***** Box<Toy> *****
+Box item count:2
+Size: 1x1 Box Weight:0.1kg Total/Maximum Allowed Weight:3kg/7kg
+Items: 
+1:Toy Label: Lego: Heroes Batman # 0.2x0.3 1.2kg No Battery
+2:Toy Label: Lego: Star Wars Death Star # 0.5x0.3 1.7kg No Battery
+********************
+
+### ERROR ### The dimensions of the contained object should be equal or smaller than those of the box!
+### ERROR ### The total weight of the contained objects including the box may not exceed the maximum allowed weight for the box!
+
+***** Box<Box<Toy>> *****
+Box item count:2
+Size: 1x1 Box Weight:1kg Total/Maximum Allowed Weight:10kg/20kg
+Items: 
+1:***** Box<Toy> *****
+Box item count:2
+Size: 1x1 Box Weight:0.1kg Total/Maximum Allowed Weight:3kg/7kg
+Items: 
+1:Toy Label: Lego: Heroes Batman # 0.2x0.3 1.2kg No Battery
+2:Toy Label: Lego: Star Wars Death Star # 0.5x0.3 1.7kg Contains Battery
+********************
+2:***** Box<Toy> *****
+Box item count:4
+Size: 1x1 Box Weight:0.1kg Total/Maximum Allowed Weight:6kg/7kg
+Items: 
+1:Toy Label: Lego: Heroes Batman # 0.2x0.3 1.2kg No Battery
+2:Toy Label: Lego: Star Wars Death Star # 0.5x0.3 1.7kg No Battery
+3:Toy Label: Hot Wheels: Turbine Twister Track Set # 0.3x0.3 1.4kg No Battery
+4:Toy Label: Lego: Heroes Superman # 0.3x0.3 1.6kg No Battery
+********************
+********************
+
+***** Box<Book> *****
+Box item count:1
+Size: 0.2x0.4 Box Weight:0.05kg Total/Maximum Allowed Weight:0.25kg/2kg
+Items: 
+1:Book Label: Terry Pratchett: The Colour of Magic # 0.4x0.2 0.2kg 
+********************
+
